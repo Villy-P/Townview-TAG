@@ -1,0 +1,13 @@
+example@example.com
+example2@b.co
+another.example@another.example.uk
+this.one.has.a.lot.of.dots.in.it@butnottoomanydots.gov
+the1stBadOne@.com
+anotherBadExample.org
+@badExample.com
+this is not the last bad example@example.com
+thisOneIs@example
+this.@is.bad
+.not@good.either
+still@.not.good
+nope@not.good.

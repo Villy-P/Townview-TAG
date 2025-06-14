@@ -1,0 +1,26 @@
+Add Frog
+Print
+Has Dog
+Add Dog
+Add Cat
+Add Duck
+Add Lemur
+Print
+Has Dog
+Add AdditionalDuck
+Print
+Remove
+Print
+Add Jackal
+Add Elephant
+Add Koala
+Has AdditionalDuck
+Remove 2
+Print
+Add Whale
+Add Aardvark
+Add Anteater
+Remove 0
+Add Ostrich
+Print
+Has Dog

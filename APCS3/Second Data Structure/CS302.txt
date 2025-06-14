@@ -1,0 +1,20 @@
+Empty 1
+Add 5
+Cat
+Frog
+Donkey
+Elephant
+Ostrich
+Find 2
+Frog
+Penguin
+Get 1
+Print 1
+Remove 3
+Print 1
+Empty 1
+Add 2
+Goldfish
+Pigeon
+Print 1
+Get 1

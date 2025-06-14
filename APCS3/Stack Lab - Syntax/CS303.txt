@@ -1,0 +1,12 @@
+if(isOpen(symbol))
+ArrayList<String>list = new ArrayList<String>();
+This line has no openers or closers.
+String[ array = {]"a","b","c"};
+if{xzy[}[();
+{method( array[ 0 ] ) } 
+{method(} array[ 0 )] 
+"{}["]"
+{ [ " {{{))) " ] }
+{ " {) " {) }
+{ " } "
+{ " } " }
