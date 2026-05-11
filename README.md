@@ -4,6 +4,8 @@ A collection of all the code I've written in my classes at Townview TAG, from Ja
 
 ## APCSA
 
+A collection of labs that I did my freshman year of high school, all written in Java.
+
 ### Special Files
 
 - [`pride.txt`](./APCSA/pride.txt): The entire book of Pride and Prejudice, used in Labs [27](./PetriniV27.java) and [28](./PetriniV28.java)
@@ -45,7 +47,39 @@ A collection of all the code I've written in my classes at Townview TAG, from Ja
 
 ## APCSP
 
-Taken my sophomore year, focuses on Data Structures in Java like queues, heaps, and stacks.
+A collection of Labs that I did in my Sophomore Year of High School in AP Computer Science Principles, focused on Data Structures like stacks, heaps, and queues.
+
+### AP Exam Create Task
+
+- [Library](./APCS3/Library/Library.java) For my create task I created a Library System that helps librarians manage books and see what books are currently checked out and who has checked them out.
+
+### Special Lab
+
+- [Finch](./APCS3/Finch/) Program a Finch to react to walls and move 90 degrees down a hallway
+
+### [Labs](./APCS3/)
+
+- [Lab 1](./APCS3/Lab%201/PetriniV01.java) Convert from base 10 to base 2
+- [Second Data Structure](./APCS3/Second%20Data%20Structure/) Create Vector Data Structure
+- [Stack Lab - Syntax](./APCS3/Stack%20Lab%20-%20Syntax/) Check if parethesis are correctly placed
+- [Polish Notation](./APCS3/Polish%20Notation/PetriniV04.java) Converts mathematical expressions to Polish Notation
+- [Data Structure 3](./APCS3/Data%20Structure%203/PetriniV05.java) Linked List of different kinds of animals
+- [Data Structure 4](./APCS3/Data%20Structure%204/PetriniTree.java) Binary Search Tree of Animals.
+- [Data Structure 4 Part 2](./APCS3/Data%20Structure%204%20Part%202/PetriniV07.java) Add Remove Functionality to Binary Search Tree
+- [Data Structure 4 Part 3](./APCS3/Data%20Structure%204%20Part%203/PetriniV08.java) Display height of Binary Search Tree and print out using Breath First Search.
+- [Data Structure 4 Part 4](./APCS3/Data%20Structure%204%20Part%204/PetriniV09.java) Add balance functionality to Binary Search Trees
+- [Data Structure 5](./APCS3/Data%20Structure%205/) Graph Data Structure with letter Nodes
+- [Data Structure 5 Part 2](./APCS3/Data%20Structure%205%20Part%202/PetriniV11.java) Get distance to most remote and most centered node in a graph of letters.
+- [Data Structure 6](./APCS3/Data%20Structure%206/PetriniV12.java) Create a heap of animals
+- [Data Structure 7](./APCS3/Data%20Structure%207/PetriniV13.java) Create a random Binary Search Tree
+- [Data Structure 7 Part 2](./APCS3/Data%20Structure%207%20Part%202/PetriniV14.java) Print Statistics on different array objects
+- [Data Structure 8](./APCS3/Data%20Structure%208/PetriniV15.java) Hash values and place them into a Linked List
+- [Data Structure 8 Part 2](./APCS3/Data%20Structure%208%20Part%202/PetriniV16.java) Allow items with duplicate hashs in data structure
+- [Data Structure 9](./APCS3/Data%20Structure%209/PetriniV17.java) Data Structure that is a double ended queue that places strings at the front and numbers at the end
+- [Regular Expressions](./APCS3/Regular%20Expressions/PetriniV18.java) Make regular expression that matches email addresses
+- [Color Fill](./APCS3/Color%20Fill/PetriniV19.java) Randomaly assign colors to different squares on a grid.
+- [Try Try Again](./APCS3/Try%20Try%20Again/PetriniV20.java) Create Graph of Words
+- [Album Four Track Four](./APCS3/Album%20Four%20Track%20Four/PetriniV21.java) Use recursion to get the different amount of steps that you can take to get to the bottom of a staircase.
 
 ## Game Design
 
