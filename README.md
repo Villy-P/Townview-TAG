@@ -1,6 +1,6 @@
 # Townview-TAG
 
-A collection of all the code I've written in my classes at Townview TAG.
+A collection of all the code I've written in my classes at Townview TAG, from Java labs, OpenGL Procedural Terrain Tests, Unity Projects, and more.
 
 ## APCSA
 
@@ -14,7 +14,7 @@ Taken my sophomore year, focuses on Data Structures in Java like queues, heaps, 
 
 Taken my sophomore year, with a focus on OpenGL fundamentals, Unity, and procedural generation.
 
-### Projects
+### [Projects](./Game-Design/)
 
 #### [Engine](./Game-Design/Engine/)
 
