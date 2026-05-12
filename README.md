@@ -60,8 +60,8 @@ Make sure you have ninja, cmake, and a C compiler.
 Then run these commands:
 
 ``` bash
-make snake-reset
-make snake-run
+make craps-reset
+make craps-run
 ```
 
 ## APCSP
