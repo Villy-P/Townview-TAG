@@ -45,6 +45,25 @@ A collection of labs that I did my freshman year of high school, all written in 
 - [`Lab 30`](./APCSA/PetriniV30.java): Guessing Game
 - [`Lab 99`](./APCSA/PetriniV99.java): Persepolis Graphics Scene
 
+## Logic
+
+Not necessarily a CS class, but for all of the projects I coded out the game we learned about that unit. All of these were made my freshman year.
+
+### [Craps](./Logic/craps/)
+
+A program in C that runs a simple game of Craps
+
+#### Running
+
+Make sure you have ninja, cmake, and a C compiler.
+
+Then run these commands:
+
+``` bash
+make snake-reset
+make snake-run
+```
+
 ## APCSP
 
 A collection of Labs that I did in my Sophomore Year of High School in AP Computer Science Principles, focused on Data Structures like stacks, heaps, and queues.
