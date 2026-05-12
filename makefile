@@ -10,6 +10,16 @@ craps-run:
 	ninja -C craps/build
 	.\craps\build\Craps.exe
 
+monopoly-reset:
+	rmdir monopoly/build
+	mkdir monopoly/build
+	cd monopoly/build
+	cmake -GNinja ..
+
+monopoly-run:
+	ninja -C monopoly/build
+	.\monopoly\build\Monopoly.exe
+
 chess-run:
 	cd chess
 	tsc -w

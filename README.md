@@ -64,6 +64,21 @@ make craps-reset
 make craps-run
 ```
 
+### [Monopoly](./Logic/monopoly/)
+
+A program in C++ that runs a simple game of Monopoly
+
+#### Running
+
+Make sure you have ninja, cmake, and a C++ compiler.
+
+Then run these commands:
+
+``` bash
+make monopoly-reset
+make monopoly-run
+```
+
 ### [Chess](./Logic/chess/)
 
 A website made that implements a simple chess game.
@@ -82,7 +97,7 @@ make chess-run
 
 After that, open the `html` file in your browser.
 
-### [Pokwer](./Logic/poker/)
+### [Poker](./Logic/poker/)
 
 A Lisp program that runs a simple game of Texas Hold 'Em
 
