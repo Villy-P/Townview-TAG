@@ -64,6 +64,56 @@ make craps-reset
 make craps-run
 ```
 
+### [Chess](./Logic/chess/)
+
+A website made that implements a simple chess game.
+
+If you'd like a full, in-depth version of how it works, you can read [`CHESS.md`](./Logic/chess/CHESS.md)
+
+#### Running
+
+Make sure you have NodeJS and TypeScript.
+
+Then run:
+
+``` bash
+make chess-run
+```
+
+After that, open the `html` file in your browser.
+
+### [Pokwer](./Logic/poker/)
+
+A Lisp program that runs a simple game of Texas Hold 'Em
+
+#### Running
+
+## Setup
+
+Download SCBL [here](https://www.sbcl.org/platform-table.html) by going down to the table and select the OS you are using.
+
+Then open up the installer.
+
+Just keep pressing `Next` until you reach the install page.
+
+> Note that installation will not work without admin privileges.
+
+Wait for SCBL to finish installing then navigate to the place it was installed.
+
+> If you just kept pressing `Next` without changing any other setting and are on a Windows computer, it should be found in `C:/Program Files`
+
+The folder name should be `Steel Bank Common Lisp`.
+
+For simplicity, rename it to `SCBL`.
+
+Open up the terminal (For Windows, press `Windows+R` then type `cmd`).
+
+First up, navigate to where this folder (with the `main.fasl`) in the terminal.
+You can do this by using `cd`.
+For example, if your folder was in `C:/Users/Your name here/Downloads/Townview-TAG/Logic/poker/`, enter in `cd Downloads/Townview-TAG/Logic/poker/`.
+
+Run `make poker-run` to see the program.
+
 ## APCSP
 
 A collection of Labs that I did in my Sophomore Year of High School in AP Computer Science Principles, focused on Data Structures like stacks, heaps, and queues.
