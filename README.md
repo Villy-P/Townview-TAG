@@ -68,6 +68,8 @@ make craps-run
 
 A program in C++ that runs a simple game of Monopoly
 
+If you'd like a full, in-depth version of how it works, you can read [`MONOPOLY.md`](./Logic/monopoly/MONOPOLY.md)
+
 #### Running
 
 Make sure you have ninja, cmake, and a C++ compiler.
